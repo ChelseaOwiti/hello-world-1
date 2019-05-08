@@ -2,7 +2,8 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Chelsea Owiti](https://github.com/ChelseaOwiti/hello-world-1)
+-
 
 ## Project setup instructions
 To start using this project use the following commands:
